@@ -6,3 +6,8 @@
 RV拖拽运行效果<br>
 
 ![](http://upload-images.jianshu.io/upload_images/531570-d802774e2a85c56a.gif?imageMogr2/auto-orient/strip) <br>
+
+
+拖拽imageview运行效果<br>
+
+![](https://github.com/xmuSistone/android-drag-square/raw/master/capture1.gif) <br>
